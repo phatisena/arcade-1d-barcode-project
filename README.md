@@ -1,2 +1,2 @@
-# arcade-1d-barcode-project
+# arcade-barcode-web
 
